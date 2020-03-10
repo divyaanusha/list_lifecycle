@@ -4,7 +4,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	List<String> l;//list initialization
+    	List<String> l;//List interface declaration
     	l=new ArrayList<String>(10);//creating ArrayList with initial capacity 10,type:string
     	
     	Scanner sc = new Scanner(System.in);
